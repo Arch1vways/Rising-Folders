@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rising Folders</string>
+    <string name="xposed_description">(OriginOS Only) Removes folder resize limits</string>
+</resources>
