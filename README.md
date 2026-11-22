@@ -1,3 +1,5 @@
+![Rising Folders](design/banner.png)
+
 # Rising Folders
 
 An LSPosed module for OriginOS that removes home screen folder resize limits.
